@@ -1,2 +1,0 @@
-# springmvc
-course from udemy
